@@ -1,0 +1,4 @@
+com\example\spring\jpa\postgresql\SpringBootJpaPostgresqlApplication.class
+com\example\spring\jpa\postgresql\model\Livro.class
+com\example\spring\jpa\postgresql\controller\LivroController.class
+com\example\spring\jpa\postgresql\repository\LivroRepository.class
